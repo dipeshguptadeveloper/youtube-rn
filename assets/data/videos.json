@@ -5,7 +5,7 @@
     "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴  ",
     "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail1.jpeg",
     "videoUrl": "",
-    "duration": "4:24:25",
+    "duration": 565,
     "user": {
       "name": "Vadim Savin",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
@@ -18,7 +18,7 @@
     "title": "🔴 Build the Uber clone in React Native (Tutorial for Beginners)",
     "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail2.jpeg",
     "videoUrl": "",
-    "duration": "6:24:20",
+    "duration": 684,
     "user": {
       "name": "Vadim Savin",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
@@ -31,7 +31,7 @@
     "title": "How Graham Stephan makes $4,578,896.32 a year on YouTube",
     "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail3.jpeg",
     "videoUrl": "",
-    "duration": "6:24:20",
+    "duration": 684,
     "user": {
       "name": "Graham Stephan",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
@@ -44,7 +44,7 @@
     "title": "My One Month Bitcoin Mining Journey",
     "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail4.jpeg",
     "videoUrl": "",
-    "duration": "6:24:20",
+    "duration": 684,
     "user": {
       "name": "Biahaze",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
@@ -57,7 +57,7 @@
     "title": "I decided to hack together an app with React JS.",
     "thumbnail": "http://i3.ytimg.com/vi/J-x5eHcEdgg/maxresdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=J-x5eHcEdgg&t=1096s",
-    "duration": "6:24:20",
+    "duration": 684,
     "user": {
       "name": "Clever Programmer",
       "image": "https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s88-c-k-c0x00ffffff-no-rj"
